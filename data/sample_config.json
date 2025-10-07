@@ -1,0 +1,31 @@
+{
+	"palette": [
+		"#1f77b4",
+		"#aec7e8",
+		"#ff7f0e",
+		"#2ca02c"
+	],
+	"background": "#ffffff",
+	"chart_html": "<svg width=\"400\" height=\"200\" role=\"img\" aria-labelledby=\"title desc\"><title id=\"title\">Monthly Sales</title><desc id=\"desc\">Bar chart showing monthly sales from January to April</desc><rect x=\"10\" y=\"100\" width=\"50\" height=\"100\" fill=\"#1f77b4\"/><rect x=\"70\" y=\"80\" width=\"50\" height=\"120\" fill=\"#aec7e8\"/><rect x=\"130\" y=\"50\" width=\"50\" height=\"150\" fill=\"#ff7f0e\"/><rect x=\"190\" y=\"120\" width=\"50\" height=\"80\" fill=\"#2ca02c\"/></svg>",
+	"chart_elements": {
+		"series": 4,
+		"gridlines": 5,
+		"legend_entries": 4,
+		"encodings": 3
+	},
+	"interactions": {
+		"keyboard": true,
+		"touch_targets": [
+			50,
+			50,
+			50,
+			50
+		],
+		"focus_indicators": true
+	},
+	"chart_props": {
+		"zoom_200": true,
+		"mobile_adaptive": true,
+		"svg_scalable": true
+	}
+}
