@@ -1,0 +1,38 @@
+{
+	"viz_id": "V1",
+	"name": "Census STEM Career Pathways",
+	"chart_type": "chord_diagram",
+	"palette": [
+		"#fdb913",
+		"#346850",
+		"#f0db51",
+		"#00939d",
+		"#3b517a",
+		"#777189",
+		"#9e2f5e",
+		"#db4815",
+		"#c7bfbd",
+		"#f1f1f1"
+	],
+	"background": "#e8f2fa",
+	"accessibility": {
+		"alt_text": "",
+		"aria_roles": [
+			"tablist"
+		],
+		"aria_labels": false,
+		"keyboard_nav": false,
+		"data_table": false,
+		"has_patterns": false
+	},
+	"complexity": {
+		"categories_left": 7,
+		"categories_right": 28,
+		"total_categories": 35
+	},
+	"responsive": {
+		"svg_based": true,
+		"mobile_variant": false,
+		"zoom_tested": false
+	}
+}
